@@ -1,0 +1,62 @@
+
+RGB color 1 - 13, 24, 33   -rich black FOGRA 29
+RGB color 2 - 52, 73, 102  -indigo dye
+RGB color 3 - 242, 244, 243  -cultured
+RGB color 4 - 169, 146, 125  -grullo
+RGB color 5 - 170, 123, 195  -african violet
+
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+font-family: 'Roboto', sans-serif; ----------------text / logo
+
+
+
+Text: Dark grey (e.g. #333333)
+Button: Charcoal grey (e.g. #4f4f4f)
+Navigation menu: Light grey (e.g. #999999)
+Call to action button: Bright red (e.g. #ff0000)
+Background color 1: Light grey (e.g. #cccccc)
+Background color 2: White (e.g. #ffffff)
+Footer: Dark grey (e.g. #333333
+
+*{
+    color: #333333 ; 
+    color:  #4f4f4f;
+    color: #999999 ;
+    color: #ff0000 ;
+    color:#cccccc;
+    color:#ffffff;
+    color:#333333 ;
+    ;
+}
+
+Sure, here is an about section for your portfolio:
+
+ <p>
+    Hi there!, my name is Abdullahi Salaudeen and I am a frontend developer. I am currently a student, but I am always 
+    eager to learn new technologies and stay up to date with the latest developments in the field.
+</p>
+<p>
+    As a frontend developer, I love building user-friendly websites that are intuitive and easy to navigate using technologies such as HTML, CSS, 
+    JavaScript, and Bootstrap. I am always eager to learn new technologies and strive to stay up-to-date with the 
+    latest developments in the field.
+</p>
+<p>
+    I hope you enjoy exploring my portfolio and learning more about my work. Thank you for visiting!
+</p>   
+
+-----------------------------------------how to make cv danloadable-------------------------------------------------
+
+main google drive link {https://drive.google.com/file/d/1IzsrSp-k9NkhLwB3joCJW2_sBjfVX5Qz/view?usp=share_link} 
+link obtained from the pdf normal link {1IzsrSp-k9NkhLwB3joCJW2_sBjfVX5Qz}
+lint to merge pdf link you got with {https://drive.google.com/uc?export=danload&id=}
+final merging {https://drive.google.com/uc?export=danload&id=1IzsrSp-k9NkhLwB3joCJW2_sBjfVX5Qz}
+
+
+
+
+
+
+nav---rgb(16,14,27)
