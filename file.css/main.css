@@ -205,7 +205,7 @@ header{
 .skill h4{
     margin: 1rem .5rem;
     text-align: center;
-    background:  #7562E0;
+    background: #6e57d4;
     color:#f2f1e6;
     padding: 1rem 0;
     border-radius: 5px;
@@ -239,7 +239,13 @@ hr{
     width: 100%;
     height: 100%;
     object-fit: cover;
+    background: black;
+    opacity: .8;
+    transition: .5s;
     /* border-radius: 50%; */
+}
+.project-img img:hover{
+    opacity: 1;
 }
 .col-text{
     display: flex;
@@ -300,15 +306,15 @@ hr{
     overflow: hidden;
     padding: 1.3rem;
     background:  #1a1a29;
-    border: 2px solid #7562E0;
+    border: 2px solid #6e57d4;
     box-shadow: 0 0 6px #0004;
-    border-top: 10px solid #7562E0;
+    border-top: 10px solid #6e57d4;
 }
 .title{
     display: block;
     font-weight: 600;
     margin: 20px 0 20px;
-    border: 2px solid  #7562E0;
+    border: 2px solid  #6e57d4;
     color: #f2f1e6;
     font-size: 1.5rem;
     text-align: center;
@@ -332,12 +338,12 @@ form .message textarea{
     width: 100%;
     padding: 8px;
     margin: 8px 0 16px;
-    color: #f2f1e6;
+    background-color: #f2f1e6;
 }
 form .input-box input:focus,
 form .message textarea:focus{
-    border-color: #7562E0;
-    outline-color: #7562E0;
+    border-color: #6e57d4;
+    outline-color: #6e57d4;;
 }
 form .message textarea{
     height: 150px;
@@ -351,10 +357,10 @@ form .message textarea{
     align-items: center;
     width:-webkit-fill-available;
     color: #f2f1e6;
-    background:#7562E0;
+    background:#6e57d4;
     font-weight: bold;
     outline: none;
-    border: 2px solid #7562E0;
+    border: 2px solid #6e57d4;
     margin: 20px 10px 10px;
     cursor: pointer;
     padding: .54rem;
@@ -363,7 +369,7 @@ form .message textarea{
 }
 .form-box .send:hover{
     background: #1a1a29;
-    color: #7562E0;
+    color: #6e57d4;
 }
 .form-box .send i{
     margin-right: 5px;
@@ -479,6 +485,7 @@ footer .footer-text p .space{
         }    
         .dev-cov{
             height: auto;
+            margin-bottom: 3rem;
         }
         
         
