@@ -259,6 +259,9 @@ hr{
 .icons-div i{
     color: #f2f1e6;;
 }
+.project-content{
+    padding-right: 15%;
+}
 .project-content h3{
     padding: .3rem 0;
     font-size: 1.2rem;
@@ -266,7 +269,8 @@ hr{
 }
 .project-content p{
     font-size: 1rem;
-    color:#bcbac4; 
+    color:#bcbac4;
+    line-height: 1.5; 
 }
 .project-content button{
     padding: .6rem .8rem;
