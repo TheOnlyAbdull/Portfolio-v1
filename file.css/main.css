@@ -10,6 +10,9 @@
     list-style: none;
     /* overflow-x: hidden; */
 }
+html{
+    scroll-behavior: smooth;
+}
 /* #########################################Navigation############################################## */
 header{
     width: 100%;
@@ -243,9 +246,6 @@ hr{
     opacity: 1;
     transition: .5s;
     /* border-radius: 50%; */
-}
-.project-img img:hover{
-    opacity: .8;
 }
 .col-text{
     display: flex;
