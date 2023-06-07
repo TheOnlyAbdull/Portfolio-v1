@@ -489,10 +489,14 @@ footer .footer-text p .space{
             width: 100%;
         }
         .form-box{
-            width: 95%;
+            width: 100%;
             overflow: hidden;
             padding: .4rem;
         }
+        form .message textarea{
+            height: 120px;
+        }
+
         .dev-cov{
             height: auto;
             margin-bottom: 3rem;
