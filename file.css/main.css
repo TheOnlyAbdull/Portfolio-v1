@@ -456,7 +456,9 @@ footer .footer-text p .space{
         .content-1 .bio{
             width: 100%;
         }
-
+        .title-h1{
+            margin-bottom: 2rem;
+        }
         .skill h4{
             padding: .6rem;
         }
