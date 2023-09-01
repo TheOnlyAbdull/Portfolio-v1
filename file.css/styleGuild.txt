@@ -32,20 +32,6 @@ Footer: Dark grey (e.g. #333333
     ;
 }
 
-Sure, here is an about section for your portfolio:
-
- <p>
-    Hi there!, my name is Abdullahi Salaudeen and I am a frontend developer. I am currently a student, but I am always 
-    eager to learn new technologies and stay up to date with the latest developments in the field.
-</p>
-<p>
-    As a frontend developer, I love building user-friendly websites that are intuitive and easy to navigate using technologies such as HTML, CSS, 
-    JavaScript, and Bootstrap. I am always eager to learn new technologies and strive to stay up-to-date with the 
-    latest developments in the field.
-</p>
-<p>
-    I hope you enjoy exploring my portfolio and learning more about my work. Thank you for visiting!
-</p>   
 
 -----------------------------------------how to make cv danloadable-------------------------------------------------
 
