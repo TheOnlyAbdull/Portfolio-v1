@@ -67,10 +67,8 @@ header{
 /* #############About Section############## */
 
 .sec-1{
-    /* height: 90vh; */
     width: 100%;
     background: #1a1a29;
-    /* color: white; */
 }
 .content-1{
     width: 80%;
@@ -202,11 +200,9 @@ hr{
     background: #1a1a29;
     padding: 4%;
 }
-/* .col-img, .col-text{border: 1px solid red;} */
 .project-img{
     width: 90%;
     height: 25rem;
-    /* border-radius: 50%; */
     border: 4px solid#181824;
     display: block;
     margin: auto;
@@ -218,7 +214,6 @@ hr{
     background: black;
     opacity: 1;
     transition: .5s;
-    /* border-radius: 50%; */
 }
 .col-text{
     display: flex;
